@@ -19,4 +19,3 @@ This repository belongs to part 2 of my React course covering intermediate-level
 - Managing application state with Zustand
 - Routing with React Router 
 
-You can find the course at https://codewithmosh.com
